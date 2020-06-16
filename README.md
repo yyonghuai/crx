@@ -1,2 +1,2 @@
 # crx
-google插件开发工具
+chrome插件开发工具
